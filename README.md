@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @classtahl
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...javascript & software testing
 - 💞️ I’m looking to collaborate in ...software testing and security testing 
 - 📫 How to reach me ..@ clas.stahl@icloud.com
 
